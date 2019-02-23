@@ -12,6 +12,10 @@ class TreeNode:
 def reConstructBinaryTree(pre, tin):
     root=TreeNode(pre[0])   #创建根节点
     Mid_index=tin.find(pre[0])
+    i=Mid_index
+    while i !=0:
+        pass
+
 
 
 
